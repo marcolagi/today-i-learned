@@ -43,7 +43,7 @@ opens a new tab to display it.
 
 And here is the result:
 
-![Bokeh color scatter](https://github.com/marcolagi/today-i-learned/resources/bokeh_1.png)
+![Bokeh color scatter](https://github.com/marcolagi/today-i-learned/blob/master/resources/bokeh_1.png)
 
 A few core concepts of this library are:
 
