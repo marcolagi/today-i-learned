@@ -18,3 +18,5 @@
 ### Bokeh
 
 - [Bokeh project backbone](bokeh/project-backbone.md)
+- [Bokeh server setup](bokeh/server-setup.md)
+
