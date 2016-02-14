@@ -4,8 +4,22 @@
 
 ### Categories
 
-* [NLTK](#nltk)
 * [Bokeh](#bokeh)
+* [Flask](#flask)
+* [NLTK](#nltk)
+
+---
+
+### Bokeh
+
+- [Bokeh project backbone](bokeh/project-backbone.md)
+- [Bokeh server setup](bokeh/server-setup.md)
+
+---
+
+### Flask
+
+- [Basic Authentication for a Flask app](flask/basic-auth.md)
 
 ---
 
@@ -15,8 +29,5 @@
 
 ---
 
-### Bokeh
 
-- [Bokeh project backbone](bokeh/project-backbone.md)
-- [Bokeh server setup](bokeh/server-setup.md)
 
