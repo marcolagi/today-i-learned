@@ -20,6 +20,7 @@
 ### Flask
 
 - [Basic Authentication for a Flask app](flask/basic-auth.md)
+- [Catch all URLs](flask/catch-all-urls.md)
 
 ---
 
