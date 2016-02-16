@@ -7,6 +7,7 @@
 * [Bokeh](#bokeh)
 * [Flask](#flask)
 * [NLTK](#nltk)
+* [Python](#python)
 
 ---
 
@@ -27,6 +28,12 @@
 ### NLTK
 
 - [Speed up POS tagging](nltk/speed-up-pos-tagging.md)
+
+---
+
+### Python
+
+- [Change datetime timezone](python/timezone.md)
 
 ---
 
