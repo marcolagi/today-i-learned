@@ -34,6 +34,7 @@
 ### Python
 
 - [Change datetime timezone](python/timezone.md)
+- [Scope of lambda functions](python/lambda.md)
 
 ---
 
