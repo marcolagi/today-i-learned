@@ -35,6 +35,7 @@
 
 - [Change datetime timezone](python/timezone.md)
 - [Scope of lambda functions](python/lambda.md)
+- [Decorators and docstrings](python/decorator.md)
 
 ---
 
