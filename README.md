@@ -13,7 +13,7 @@
 
 ### Bokeh
 
-- [Bokeh project backbone](bokeh/project-backbone.md)
+- [Bokeh project backbone](wiki/Calendar)
 - [Bokeh server setup](bokeh/server-setup.md)
 
 ---
