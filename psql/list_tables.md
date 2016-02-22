@@ -1,4 +1,4 @@
-# List all table names of a PostgreSQL database.
+# List all table names of a database.
 
 While from the PSQL shell `\dt` is enough, from the python shell is:
 
