@@ -33,5 +33,5 @@ the optional integer `depth` is not given, it returns the frame at the top of
 the call stack. `f_back` moves down in the stack one level, so that
 `sys._getframe().f_back` is equivalent to `sys._getframe(1)`.
 
-There are other ways to that, for example using the `inspect` module.
+There are other ways to do that, for example using the `inspect` module.
 
