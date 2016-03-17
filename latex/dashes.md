@@ -3,7 +3,7 @@
 LaTeX can display three different kinds of dashes:
 
 | LaTeX | name | rendered |
-|------|------------------|
+|------|-------|-----------|
 |  `-`  | hyphen | - |
 |  `--`  | en-dash | – |
 |  `---`  | em-dash | — |
