@@ -5,7 +5,7 @@ When in need to make periodic backups on a remote server to be accessed through
 something else, you'll get `Permission denied (publickey)`. One has to specify
 the exact `ssh` command via the `-e` option:
 
-    rsync -avz -e "ssh -i /home/username/.ssh/1234-identity" [DIR] [REMOTE_DIR]
+    rsync -avz -e "ssh -i [LOCAL_PATH_TO_KEY]" [LOCAL_DIR] [USER]@[TARGET]:[REMOTE_DIR]
 
 The absolute path to the identity key file is necessary in this case.
 
