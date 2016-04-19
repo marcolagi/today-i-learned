@@ -10,6 +10,7 @@ To achieve this:
 
 1. Install [CLOC](https://github.com/AlDanial/cloc) (Count lines of code) with
 your package manager (e.g. `brew install cloc`)
+
 1. Save the following code in `cloc-git`:
 
         #!/usr/bin/env bash
@@ -19,5 +20,7 @@ your package manager (e.g. `brew install cloc`)
         rm -rf temp-linecount-repo
 
 1. run `chmod +x cloc-git`
+
 1. move the file to a folder in your `PATH`, like `/usr/local/bin`
+
 1. run like `cloc-git https://github.com/evalEmpire/perl5i.git`
