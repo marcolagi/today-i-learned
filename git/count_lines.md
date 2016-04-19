@@ -11,7 +11,7 @@ To achieve this:
 1. Install [CLOC](https://github.com/AlDanial/cloc) (Count lines of code) with
 your package manager (e.g. `brew install cloc`)
 
-1. Save the following code in `cloc-git`:
+1. Save the following code in a file, say `cloc-git`:
 
         #!/usr/bin/env bash
         git clone --depth 1 "$1" temp-linecount-repo &&
