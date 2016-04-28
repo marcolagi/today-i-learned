@@ -1,4 +1,4 @@
-# Cache git password
+# Cache GitHub password
 
 If you're cloning GitHub repositories using HTTPS on a Linux machine, you can
 use a credential helper to tell git to remember your username and
